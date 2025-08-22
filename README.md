@@ -34,6 +34,8 @@ This app allows you to search for a city and get:
    copy your API key
    make sure it is active
 
+   search for api_key in the code and paste your API key here
+
 1. **Clone the repository**  
    ```bash
    git clone https://github.com/Ziad-0Waleed/Weather-Api-App.git
