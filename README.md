@@ -20,7 +20,7 @@ This app allows you to search for a city and get:
 ---
 
 ## 📸 Preview
-*<img width="416" height="627" alt="image" src="https://github.com/user-attachments/assets/90d7e6fe-724f-4f8f-8d63-38e1950f458d" />
+*<img width="416" height="627" alt="image" src="https://github.com/user-attachments/assets/8e92bd54-94de-4984-9263-6ba342ec7db7" />
 *  
 
 ---
