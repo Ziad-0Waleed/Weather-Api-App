@@ -34,7 +34,7 @@ This app allows you to search for a city and get:
    copy your API key
    make sure it is active
 
-   search for api_key in the code and paste your API key here
+   search for api_key in the code and paste your API key there
 
 1. **Clone the repository**  
    ```bash
